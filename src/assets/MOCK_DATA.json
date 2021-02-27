@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "first_name": "Berta",
+    "last_name": "Edis",
+    "email": "bedis0@vk.com",
+    "gender": "Agender",
+    "ip_address": "161.170.127.40"
+  },
+  {
+    "id": 2,
+    "first_name": "Koren",
+    "last_name": "Zarb",
+    "email": "kzarb1@yahoo.co.jp",
+    "gender": "Genderfluid",
+    "ip_address": "35.138.129.87"
+  },
+  {
+    "id": 3,
+    "first_name": "Carmine",
+    "last_name": "Moffet",
+    "email": "cmoffet2@cdc.gov",
+    "gender": "Agender",
+    "ip_address": "143.19.70.173"
+  },
+  {
+    "id": 4,
+    "first_name": "Carl",
+    "last_name": "Hadcock",
+    "email": "chadcock3@yahoo.co.jp",
+    "gender": "Male",
+    "ip_address": "204.155.197.128"
+  },
+  {
+    "id": 5,
+    "first_name": "Aubree",
+    "last_name": "Jaquest",
+    "email": "ajaquest4@arstechnica.com",
+    "gender": "Bigender",
+    "ip_address": "208.231.66.197"
+  }
+]
