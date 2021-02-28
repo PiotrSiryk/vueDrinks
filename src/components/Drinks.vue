@@ -2,7 +2,7 @@
   <div>
     <v-container>
       <v-row v-for="(el, index) in getNumberOfRows" :key="index">
-        <v-col v-for="(item, ind) in el" :key="ind">
+        <v-col v-for="(item, ind) in el" :key="ind" xs="12" sm="6" md='4' lg='3' xl='2'>
           <DrinkCard :item="item"/>
         </v-col>
       </v-row>
