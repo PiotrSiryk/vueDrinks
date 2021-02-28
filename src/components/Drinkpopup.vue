@@ -30,10 +30,8 @@
 
 <script>
 export default {
-  props: ["isLogged"],
   data() {
     return {
-      current: { name: "", password: "" },
     };
   },
 };
